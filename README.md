@@ -1,1 +1,1 @@
-Building a calculator using typescript
+Building a command-line calculator using typescript
